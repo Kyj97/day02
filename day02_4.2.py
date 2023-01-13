@@ -15,7 +15,7 @@ else:
     else:
         print("호박은 크고 녹색이 아니다.")
 
-
+#심심해서 추가
 if green:
     if small:
          print("완두콩은 작고 녹색이다.")
